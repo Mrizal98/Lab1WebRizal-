@@ -17,4 +17,5 @@ Jawab !
    Menggunakan tag P akan memberikan jarak paragraph, tetapi tidak terlalu jauh
    Menggunakan tag br
    ![tag BR](https://user-images.githubusercontent.com/63729431/112843583-ebe03680-90cc-11eb-8c3f-b09117ce16b4.jpg)
-   Menggunakan tag Br akan memberikan double jarak paragraph
+   Menggunakan tag br akan memberikan double jarak paragraph
+ 3. <img src="LOGO_UPB_NEW1.jpg" width="300" title="Logo Univeritas Pelita Bangsa">
