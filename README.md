@@ -14,3 +14,7 @@ Jawab !
 1. Tidak ada code yang eror
 2. Menggunakan tag P
    ![tag P](https://user-images.githubusercontent.com/63729431/112842641-fb12b480-90cb-11eb-8920-782ab14b2714.jpg)
+   Menggunakan tag P akan memberikan jarak paragraph, tetapi tidak terlalu jauh
+   Menggunakan tag br
+   ![tag BR](https://user-images.githubusercontent.com/63729431/112843583-ebe03680-90cc-11eb-8c3f-b09117ce16b4.jpg)
+   Menggunakan tag Br akan memberikan double jarak paragraph
