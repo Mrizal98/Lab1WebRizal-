@@ -25,6 +25,8 @@ Jawab !
    ![WH](https://user-images.githubusercontent.com/63729431/112866367-ea6e3880-90e3-11eb-8d0d-e220caa39fec.png)
    Untuk gambar selanjutnya Saya hanya menggunakan height
    ![height](https://user-images.githubusercontent.com/63729431/112866914-88620300-90e4-11eb-9eb9-0bbe958769f7.png)
-
+5. LINK
+   ![link](https://user-images.githubusercontent.com/63729431/112870001-f1974580-90e7-11eb-8153-bd16b580b135.png)
+   
 
 
