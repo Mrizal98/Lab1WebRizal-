@@ -21,7 +21,7 @@ Jawab !
    ![title](https://user-images.githubusercontent.com/63729431/112865332-dfff6f00-90e2-11eb-9cb7-7af8872f1dd3.png)
    Alt, apabila anda menggunakan ini, maka tidak akan keluar tulisan UNIVERSITAS PELITA BANGSA
    ![ALT](https://user-images.githubusercontent.com/63729431/112865712-3a003480-90e3-11eb-82e9-77d96b3a3a6a.png)
-4. Pada gambar dibawah ini. Saya disini menggunakan width dan height, menurut saya menggunakan width dan height membuat gambar sedikit aneh.
+4. Pada gambar dibawah ini. Saya disini menggunakan width dan height, menurut saya menggunakan width dan height maka akan membuat gambar logo UPB seperti dibawah ini
    ![WH](https://user-images.githubusercontent.com/63729431/112866367-ea6e3880-90e3-11eb-8d0d-e220caa39fec.png)
    Untuk gambar selanjutnya Saya hanya menggunakan height
    ![height](https://user-images.githubusercontent.com/63729431/112866914-88620300-90e4-11eb-9eb9-0bbe958769f7.png)
