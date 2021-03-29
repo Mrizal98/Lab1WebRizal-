@@ -21,4 +21,6 @@ Jawab !
 3. Title, apabila anda menggunakan ini, maka akan ada tulisan yang akan munucl, ketika anda melihat gambar
    ![title](https://user-images.githubusercontent.com/63729431/112865332-dfff6f00-90e2-11eb-9cb7-7af8872f1dd3.png)
    Alt, apabila anda menggunakan ini, maka tidak akan keluar tulisan UNIVERSITAS PELITA BANGSA
+   ![ALT](https://user-images.githubusercontent.com/63729431/112865712-3a003480-90e3-11eb-82e9-77d96b3a3a6a.png)
+4. 
 
