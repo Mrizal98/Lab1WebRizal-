@@ -20,5 +20,5 @@ Jawab !
    Menggunakan tag br akan memberikan double jarak paragraph
 3. Title, apabila anda menggunakan ini, maka akan ada tulisan yang akan munucl, ketika anda melihat gambar
    ![title](https://user-images.githubusercontent.com/63729431/112865332-dfff6f00-90e2-11eb-9cb7-7af8872f1dd3.png)
-
+   Alt, apabila anda menggunakan ini, maka tidak akan keluar tulisan UNIVERSITAS PELITA BANGSA
 
