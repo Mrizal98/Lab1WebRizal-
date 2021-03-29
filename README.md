@@ -2,12 +2,11 @@
 
 Tugas !
 
-1.	Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+1.	Lakukan  perubahan  pada  kode  sesuai  dengan  keinginan  anda,  amati  perubahannya  adakah errorketika terjadi kesalahan penulisan tag?
 2.	Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
 3.	Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
-4.	Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
-5.	proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
-6.	Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+4.	Untuk  mengatur  ukuran  gambar,  digunakan  atribut width dan height.  Agar  tampilan  gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan     penjelasannya!
+5.	Pada linktambahkan atribut targetdengan nilai atribut bervariasi ( _blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 Jawab !
 
@@ -22,5 +21,7 @@ Jawab !
    ![title](https://user-images.githubusercontent.com/63729431/112865332-dfff6f00-90e2-11eb-9cb7-7af8872f1dd3.png)
    Alt, apabila anda menggunakan ini, maka tidak akan keluar tulisan UNIVERSITAS PELITA BANGSA
    ![ALT](https://user-images.githubusercontent.com/63729431/112865712-3a003480-90e3-11eb-82e9-77d96b3a3a6a.png)
-4. 
+4. Saya disini menggunakan width dan height
+   ![WH](https://user-images.githubusercontent.com/63729431/112866367-ea6e3880-90e3-11eb-8d0d-e220caa39fec.png)
+
 
