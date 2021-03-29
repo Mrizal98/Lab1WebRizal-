@@ -12,5 +12,5 @@ Tugas !
 Jawab !
 
 1. Tidak ada code yang eror
-2. Menggunakan tag <p>
+2. Menggunakan tag P
    ![tag P](https://user-images.githubusercontent.com/63729431/112842641-fb12b480-90cb-11eb-8920-782ab14b2714.jpg)
