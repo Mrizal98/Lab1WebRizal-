@@ -19,5 +19,6 @@ Jawab !
    ![tag BR](https://user-images.githubusercontent.com/63729431/112843583-ebe03680-90cc-11eb-8c3f-b09117ce16b4.jpg)
    Menggunakan tag br akan memberikan double jarak paragraph
 3. Title, apabila anda menggunakan ini, maka akan ada tulisan yang akan munucl, ketika anda melihat gambar
-   ![image](https://user-images.githubusercontent.com/63729431/112865169-b47c8480-90e2-11eb-8f9c-adec1cc6c247.png)
+   ![title](https://user-images.githubusercontent.com/63729431/112865332-dfff6f00-90e2-11eb-9cb7-7af8872f1dd3.png)
+
 
